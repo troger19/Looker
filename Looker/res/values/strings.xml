@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Looker</string>
+    <string name="service_message">Service is running</string>
+    <string name="about">About</string>
+    <string name="aboutText"><![CDATA[
+                <p>        Application is monitoring Clipboard and checks, if the word is in the excel file, in column A. If yes, it Toast its translation,
+  which is in column B. Do not manipulate with excel sheet in tablet, because it can cause the error: <i>Unexpected missing row when some rows already present </i>  </p>
+   <p>       Excel should have a form  <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;   A		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 B <br>
+      Mutter 	&nbsp;&nbsp;	Matka <br>
+      Vater      &nbsp;&nbsp;&nbsp;&nbsp;  Otec </p>
+]]></string>
+</resources>
